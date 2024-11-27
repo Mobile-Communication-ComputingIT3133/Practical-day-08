@@ -1,8 +1,13 @@
-Mobile-computing-Practical
+## Mobile-computing-Practical
 This belongs to Mobile Computing practicals Daily
 
-Day 08 
+## Day 08 
 Install react-router-dom module and handling it using Router,Routes,Route
+---
 
-Create Loging page using username and password data and Navigate to dashboard page using useNavigate() and check username and password were provided. if username and password are not provided then display error message
+- Create Loging page using username and password data and Navigate to dashboard page using useNavigate() and check username and password were provided. if username and password are not provided then display error message
+
+![OUtput image 1](./Output/day8-01.PNG)
+![OUtput image 2](./Output/day8-02.PNG)
+
 
