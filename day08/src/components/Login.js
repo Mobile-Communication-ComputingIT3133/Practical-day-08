@@ -12,7 +12,7 @@ export default function Login() {
     }
     const aunthenticate = () => {
         //console.log(user);
-        if (user.username === "Admin" && user.pwd === "abc@123") {
+        if (user.username === "Admin" && user.pwd === "@1abc23") {
             setUser({ username: "", pwd: "", error: "" })
             navigate('/dash');
         } else {
